@@ -1,0 +1,73 @@
+/* form{
+    background-color: red;
+    position:relative;
+    left: 40%;
+    bottom:20%;
+
+} */
+.form{
+    /* background: #000; */
+   
+    text-align: center;
+   
+
+}
+
+.enter
+{
+font-family: 'Permanent Marker', cursive;
+font-size: 30px;
+text-shadow: 0 0 3px white;
+
+
+}
+.from{
+    text-align: center;
+    margin: 5px;
+    border-radius: 20px;
+font-family: 'Permanent Marker', cursive;
+
+}
+
+.to{
+    border:soldi;
+    text-align:center;
+    margin: 5px;
+    border-radius: 20px;
+font-family: 'Permanent Marker', cursive;
+
+}
+
+.amount{
+    border:soldi;
+    text-align:center;
+    margin: 5px;
+    border-radius: 20px;
+font-family: 'Permanent Marker', cursive;
+
+}
+
+.convert{
+    border:soldi;
+    text-align:center;
+    margin: 5px;
+    border-radius: 20px;
+font-family: 'Permanent Marker', cursive;
+
+}
+.outer{
+
+    position: relative;
+    left:35%;
+    border: solid;
+    height: 250px;
+    width: 30%;
+    border-radius: 70px;
+    margin-top: 7%;
+    
+
+}
+.inner{
+    position: relative;
+    /* top: 7% */
+}
